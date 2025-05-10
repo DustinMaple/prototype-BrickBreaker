@@ -1,0 +1,12 @@
+# Unity自动生成的文件夹
+Library/
+Logs/
+obj/
+Temp/
+UserSettings/
+Build/
+*.userprefs
+*.tmp
+
+# Rider文件夹
+.idea/
